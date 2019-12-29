@@ -1,0 +1,43 @@
+
+.image{
+    margin : 0 auto;
+  }
+  .container{
+    margin : 0 auto;
+    text-align: center;
+  }
+
+  #logo{
+    margin : 0 0 0px 38px;
+  }
+
+  .container a {
+    color: #868686;
+  }
+
+  .container a:hover {
+    color: #cacaca;
+  }
+
+  .container > .name {
+    font-size: 21px;
+    color  : #cacaca
+  }
+  .container > span {
+    color : #868686
+  }
+  
+  .tabs.is-right ul{
+    padding: 72px;
+    font-size: 17px;
+  }
+
+  .tabs ul, .tabs a {
+    border-bottom-color : none;
+    border-bottom-style : none;
+    border-bottom-width : none;
+  }
+  .tabs a:hover{
+    border-bottom-color : none;
+    color : #dbdbdb
+  }
