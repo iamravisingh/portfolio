@@ -1,6 +1,6 @@
 # portfolio
 
-> Ravi Singh first portfolioportfolio
+> Ravi Singh portfolio
 
 ## Build Setup
 
